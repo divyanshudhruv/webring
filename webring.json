@@ -15,16 +15,6 @@
     "url": "https://namishh.com"
   },
   {
-    "name": "pranav",
-    "gh": "pranavu-coder",
-    "url": "https://pranavu.dev/"
-  },
-  {
-    "name": "sahil_gulihar",
-    "gh": "sahil-gulihar",
-    "url": "https://sahilgulihar.com"
-  },
-  {
     "name": "datavorous",
     "gh": "datavorous",
     "url": "https://datavorous.github.io"
@@ -40,29 +30,14 @@
     "url": "https://kew.edbn.me/"
   },
   {
-    "name": "omnimistic",
-    "gh": "omnimistic",
-    "url": "https://omnimistic.github.io"
-  },
-  {
     "name": "silicognition",
     "gh": "sortira",
     "url": "https://silicognition.is-a.dev"
   },
   {
-    "name": "siddhi",
-    "gh": "sidharthify",
-    "url": "https://sidharthify.tech"
-  },
-  {
     "name": "0xn1nja",
     "gh": "0xn1nja",
     "url": "https://www.0xn1nja.dev"
-  },
-  {
-    "name": "natya",
-    "gh": "natyavidhan",
-    "url": "https://natya.is-a.dev"
   },
   {
     "name": "aspizu",
@@ -73,11 +48,6 @@
     "name": "bl1nd",
     "gh": "blindandinsane",
     "url": "https://bl1nd.space"
-  },
-  {
-    "name": "div",
-    "gh": "divyanshudhruv",
-    "url": "https://divyanshudhruv.is-a.dev"
   },
   {
     "name": "anurag",
@@ -98,16 +68,6 @@
     "name": "ashish",
     "gh": "ashish0kumar",
     "url": "https://ashishh.bearblog.dev"
-  },
-  {
-    "name": "bit2swaz",
-    "gh": "bit2swaz",
-    "url": "https://bit2swaz.vercel.app"
-  },
-  {
-    "name": "kinetictactic",
-    "gh": "kinetictactic",
-    "url": "https://kinetictactic.github.io"
   },
   {
     "name": "sarthak",
@@ -140,21 +100,6 @@
     "url": "https://tnm-yes-anyidea.pages.dev/"
   },
   {
-    "name": "pvs",
-    "gh": "pvsssss",
-    "url": "https://pvsssss.github.io/pvs-does-stuff"
-  },
-  {
-    "name": "funinkina",
-    "gh": "funinkina",
-    "url": "https://funinkina.co.in"
-  },
-  {
-    "name": "angad",
-    "gh": "angadbasandrai",
-    "url": "https://angadbasandrai.github.io"
-  },
-  {
     "name": "prashant",
     "gh": "pandey-ps",
     "url": "https://pandeyps.in"
@@ -170,11 +115,6 @@
     "url": "https://ahhyoushh.github.io"
   },
   {
-    "name": "Harshvardhan",
-    "gh": "harshvardhan0maurya",
-    "url": "https://harshvardhan0maurya.github.io/"
-  },
-  {
     "name": "farhan",
     "gh": "farhan291",
     "url": "https://www.mdfarhan.net/"
@@ -188,26 +128,6 @@
     "name": "chaitanya",
     "gh": "chtnnh",
     "url": "https://me.chtnnhfoundation.org"
-  },
-  {
-    "name": "devang",
-    "gh": "Vangax",
-    "url": "https://vangax.github.io/"
-  },
-  {
-    "name": "airi",
-    "gh": "ZahinTapadar",
-    "url": "https://zahin-tapadar.vercel.app/"
-  },
-  {
-    "name": "pratham",
-    "gh": "sadisticbrew",
-    "url": "https://sadisticbrew.github.io/"
-  },
-  {
-    "name": "ankita",
-    "gh": "0xafraidoftime",
-    "url": "https://ankitapal.com/"
   },
   {
     "name": "arnesh",
@@ -235,19 +155,9 @@
     "url": "https://mrkr.me"
   },
   {
-	  "name": "maaz",
-	  "gh": "somewherelostt",
-	  "url": "https://maazx.dev/"
-  },
-  {
 	  "name": "xevrion",
 	  "gh": "xevrion",
 	  "url": "https://xevrion.dev"
-  },
-  {
-	  "name": "bytejoseph",
-	  "gh": "ByteJoseph",
-	  "url": "https://bytejoseph.pages.dev"
   },
   {
     "name": "RohitTanwar",
@@ -260,19 +170,9 @@
     "url": "https://www.aryanbaburajan.com/"
   },
   {
-    "name": "reitardxd",
-	"gh": "ReitardXd",
-	"url": "https://reitardxd.me"
-  },
-  {
     "name": "VrajVed",
     "gh": "VrajVed",
     "url": "https://vrajved.tech"
-  },
-  {
-    "name": "dither",
-    "gh": "DitherWither",
-    "url": "https://dither.dev"
   },
   {
     "name": "nairadithya",
@@ -290,29 +190,9 @@
     "url": "https://anshu.sh"
   },
   {
-    "name":"axissprime",
-    "gh":"karthik20066002",
-    "url":"https://axisspri.me"
-  },
-  {
     "name": "robin",
     "gh": "robinroy03",
     "url": "https://robinroy.xyz/"
-  },
-  {
-	"name": "simba",
-	"gh": "simbabimba-dev",
-	"url": "https://simba.qzz.io/"
-  },
-  {
-    "name": "x3r0day",
-    "gh": "X3r0Day",
-    "url": "https://x3r0day.me/"
-  },
-  {
-    "name": "Parth",
-    "gh": "losthread",
-    "url": "https://losthread-portfolio.vercel.app/"
   },
   {
     "name": "parth",
