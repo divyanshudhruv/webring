@@ -1,11 +1,8 @@
 # threadlocked
 
-a dead simple [webring](https://en.wikipedia.org/wiki/Webring) server for threadlocked. join our [discord server](https://discord.gg/gqyV3nyjwE) to meet cool engineers and hackers :p  
+a dead simple [webring](https://en.wikipedia.org/wiki/Webring) server for threadlocked. join our discord server to meet cool engineers and hackers :p  
 
-<div> 
-<a href="https://discord.gg/gqyV3nyjwE">
-  <img src="https://img.shields.io/badge/Join%20the%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
+apply via mailing to join[at]threadlocked.xyz <3
 
 </div>
 
