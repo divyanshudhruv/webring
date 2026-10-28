@@ -224,9 +224,14 @@
 		"gh": "syswraith",
 		"url": "https://syswraith.com/"
 	},
-	 {
+  {
+    "name": "niel",
+    "gh": "nielandvoid",
+    "url": "https://nielandvoid.com"
+  },
+  {
     "name": "div",
     "gh": "divyanshudhruv",
     "url": "https://divyanshudhruv.is-a.dev/"
-  },
+  }
 ]
